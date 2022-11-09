@@ -83,15 +83,21 @@ void clockwise(int speed)
 CLOCKWISE:
 
 READINGS:
+
 ![image](intre6image2.png)
+
 GRAPH:
+
 ![image](intre6image3.png)
 
 COUNTER CLOCKWISE:
 
 READINGS:
+
 ![image](intre6image4.png)
+
 GRAPH:
+
 ![image](intre6image5.png)
 
  
